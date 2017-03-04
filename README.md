@@ -1,2 +1,2 @@
 # Base
-All the basic projects.
+Just another guy trying to make his way through.
